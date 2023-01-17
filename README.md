@@ -67,7 +67,7 @@ for item in produk:
 ```
 ---
 
-buat dataframee untuk list menggunakan panda
+buat dataframe untuk list menggunakan panda
 
 ```
 df = pd.DataFrame({'Barang': nama_produk, 'Harga': harga_produk})
